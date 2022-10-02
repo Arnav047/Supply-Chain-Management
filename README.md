@@ -20,7 +20,7 @@ Created a client facing website that would help the Pharmaceutical companies.
 5. Forecasting the delays in order received.<br>
  
  
-## Tech Stack used: <br>
+## Tech Stack used for Model Training: <br>
 1. Pandas <br>
 2. Numpy <br>
 3. Matplotlib<br>
