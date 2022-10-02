@@ -7,15 +7,15 @@ Created a client facing website that would help the Pharmaceutical companies.
 4. Predict Delivery dates of clients when required parameters are entered <br>
 5. Forecasting the delays in order received.<br>
  
+ 
 Tech Stack used:<br>
-Imported pandas as pd<br>
-Imported numpy as np<br>
-Imported matplotlib.pyplot as plt<br>
-Imported seaborn as sns<br>
-Imported re<br>
-Imported warnings<br>
-Imported plotly.graph_objs as go<br>
-Imported plotly.offline as py<br>
-from sklearn.preprocessing import LabelEncoder<br>
-from sklearn.preprocessing import StandardScaler<br>
+1. Pandas <br>
+2. Numpy <br>
+3. Matplotlib<br>
+4. Seaborn<br>
+5. Scikit Learn<br>
+6. Plotly<br>
+7. Re <br>
+8. Warnings <br>
+
  
