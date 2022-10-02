@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Team 12: Bit Lords
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Problem Statement
 
-## Available Scripts
+ 
+To solve problems of SCM
+Effective supply chain is basic need of any business and provide personalize market place to its product is added advantage in current market.
+Main purpose of this project is to implement effective SCM system and develop market trending E-commerce website
+Entities to be considered for implementation of AI and Data science based SCM.
+<br> 1. SCM module <br> 2. E-commerce B2B site <br> 3. Integration engine between SCM and E- commerce site <br> <br> <br> 
 
-In the project directory, you can run:
+## Proposed Solution:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Created a client facing website that would help the Pharmaceutical companies.
+ 
+1. Using Decision trees to provide the most optimal path with respect to Delivery cost and time.<br>
+2. Compare various modes with their costs and delivery times so as to make the right decision for their transportation.<br>
+3. Predicting the future demand w.r.t price and product type.<br>
+4. Predict Delivery dates of clients when required parameters are entered <br>
+5. Forecasting the delays in order received.<br>
+ 
+ 
+## Tech Stack used: <br>
+1. Pandas <br>
+2. Numpy <br>
+3. Matplotlib<br>
+4. Seaborn<br>
+5. Scikit Learn<br>
+6. Plotly<br>
+7. Regex <br>
+8. Warnings <br>
+9. Power BI<br>
+10. Python<br>
