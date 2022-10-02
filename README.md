@@ -31,5 +31,3 @@ Created a client facing website that would help the Pharmaceutical companies.
 8. Warnings <br>
 9. Power BI<br>
 10. Python<br>
-
- 
