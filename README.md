@@ -1,4 +1,4 @@
-# Team 12: Bit Lords
+# Supply Chain Management
 
 ## Problem Statement
 
